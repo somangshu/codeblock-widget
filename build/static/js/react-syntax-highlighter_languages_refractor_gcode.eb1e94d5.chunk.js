@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcodeblock=self.webpackChunkcodeblock||[]).push([[9674],{9124:function(e){function c(e){e.languages.gcode={comment:/;.*|\B\(.*?\)\B/,string:{pattern:/"(?:""|[^"])*"/,greedy:!0},keyword:/\b[GM]\d+(?:\.\d+)?\b/,property:/\b[A-Z]/,checksum:{pattern:/(\*)\d+/,lookbehind:!0,alias:"number"},punctuation:/[:*]/}}e.exports=c,c.displayName="gcode",c.aliases=[]}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_refractor_gcode.eb1e94d5.chunk.js.map
